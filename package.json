@@ -1,0 +1,14 @@
+{
+  "name": "node-web-template",
+  "version": "1.0.0",
+  "description": "This would act as the basic template to create any node.js application which can be hosted on heroku.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Machhewar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
